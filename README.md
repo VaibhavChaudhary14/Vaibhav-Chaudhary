@@ -47,7 +47,7 @@ developer tools.<br>
 
 
 ###      Check out my portfolio
-🔗 **Here** : https://vaibhavchaudhary14.github.io/Vaibhav.github.io/
+🔗 **Here** : https://vaibhavchaudhary14.github.io/VaibhavChaudhary14/
 
 
 
