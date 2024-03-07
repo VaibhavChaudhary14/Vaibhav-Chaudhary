@@ -1,4 +1,10 @@
-[![Masterhead(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVmNThqbzF5OTRzc3FzcGZxZ2N5NnF1N3d0cmRyZGc4czFwcDdociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)]
+<div align="center">
+  <a href="https://vaibhavchaudhary14.github.io">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVmNThqbzF5OTRzc3FzcGZxZ2N5NnF1N3d0cmRyZGc4czFwcDdociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Masterhead" width="100%">
+  </a>
+</div>
+
+
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/VaibhavChaudhary14">Vaibhav Chaudhary </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 </div>
