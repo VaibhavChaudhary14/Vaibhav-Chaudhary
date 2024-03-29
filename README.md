@@ -11,7 +11,8 @@
 
 <p align="center">
    <a href="https://linkedin.com/in/vaibhavchaudhary14"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Vaibhav_14ry"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a> 
+   <a href="https://twitter.com/Vaibhav_14ry"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/vaibhav.ch.1"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
 </p> 
 
 <div align="center">
