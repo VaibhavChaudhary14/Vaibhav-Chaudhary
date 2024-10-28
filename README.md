@@ -1,8 +1,4 @@
-<div align="center" style="height: 200px; overflow: hidden;">
-   <a href="https://vaibhavchaudhary14.github.io">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVmNThqbzF5OTRzc3FzcGZxZ2N5NnF1N3d0cmRyZGc4czFwcDdociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Masterhead" width="100%" height="auto">
-  </a>
-</div>
+
 
 
 <div align="center">
