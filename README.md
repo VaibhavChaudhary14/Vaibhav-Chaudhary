@@ -94,15 +94,23 @@
 
 ---
 
-## 📈 GitHub Activity
-
+## 🌌 GitHub Activity
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavChaudhary14/VaibhavChaudhary14/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavChaudhary14/VaibhavChaudhary14/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VaibhavChaudhary14/VaibhavChaudhary14/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavChaudhary14&custom_title=Vaibhav's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 </div>
+<br>
+<div align="center">
+
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavChaudhary14&theme=radical" alt="Profile Details" />
+</div>
+<details align="center">
+  <summary>📊 More GitHub Metrics</summary>
+  <br>
+  <img src="https://metrics.lecoq.io/VaibhavChaudhary14?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&habits=1&followup=1&people=1&stargazers=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&stargazers.charts.type=classic&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" width="100%"/>
+</div>
+
 
 ---
 
