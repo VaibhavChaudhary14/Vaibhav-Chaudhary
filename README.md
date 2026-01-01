@@ -1,151 +1,165 @@
-<h1 align="center">👋 Vaibhav Chaudhary</h1>
+<h1 align="center">Hey there 👋, I'm Vaibhav Chaudhary!</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Engineer;Computer+Vision+Specialist;Smart+Grid+Security+Expert;Building+Real-World+AI+Systems" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VaibhavChaudhary14&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<div align="center"><b>AI Engineer | Computer Vision | MLOps | Smart Grid Security</b></div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in **Electrical Engineering** at Rajkiya Engineering College, Banda
+- 🤖 Specializing in **Computer Vision**, **Deep Learning**, and **Cyber-Physical AI Systems**
+- 🔭 Working on **AI-powered civic platforms** and **smart grid cybersecurity**
+- 🧑‍💻 Building end-to-end ML pipelines from research to production
+- 🌐 Portfolio: [vaibhav-14ry.vercel.app](https://vaibhav-14ry.vercel.app/)
+- 💼 Open to **AI/ML Engineer** roles and exciting collaborations
+- ⚡ Passionate about applying AI to **real-world infrastructure challenges**
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+### 🌐 Web & DevOps
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+---
+
+## 🔥 Featured Projects
+
+### 🧹 **SaafSaksham** - AI-Powered Civic Cleanliness Platform
+
+- ✅ **Garbage detection** using CNNs & Vision Transformers
+- ✅ **Siamese learning** for before-after validation
+- ✅ **Confidence scoring** & anomaly detection
+- ✅ Scalable **SaaS backend** with MongoDB
+
+**Tech:** PyTorch • OpenCV • Vision Transformers • MongoDB  
+🔗 [GitHub Repo](https://github.com/VaibhavChaudhary14/SaafSaksham)
+
+---
+
+### ⚡ **Smart Grid Cyberattack Detection** - Major Project
+
+- ✅ **ST-GNN** based grid modeling
+- ✅ FDI, DoS & Replay **attack detection**
+- ✅ **Transformer-LSTM** ensembles
+- ✅ **RL-based mitigation** using PPO
+
+**Results:** 97-99% detection accuracy | 92% localization accuracy  
+**Tech:** PyTorch • TensorFlow • MATLAB/Simulink
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavchaudhary14)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://vaibhav-14ry.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:14vaibhav2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/VaibhavChaudhary14)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VaibhavChaudhary14&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+<h2 align="center">📈 My Contributions</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavChaudhary14&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity graph" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavChaudhary14&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavChaudhary14&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavChaudhary14&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+---
+
+## 💼 Experience Highlights
+
+🔌 **UPPTCL (Agra)** - Vocational Trainee | 400 kV Substation  
+⚡ Worked on live EHV systems, protection relays & fault analysis
+
+💻 **ScienceOverse (Remote)** - Frontend Developer  
+🌐 Built React & Next.js apps for 100+ users with 15+ API integrations
+
+🎓 **IEEE Student Branch, REC Banda** - Chairperson  
+👨‍🏫 Led workshops & tech initiatives impacting 200+ students
+
+---
+
+## 🎯 What I'm Looking For
+
+✅ **AI / ML Engineer** roles  
+✅ **Computer Vision** & Applied ML opportunities  
+✅ Projects in **energy, infrastructure & security**  
+✅ Teams building **real-world impact products**
+
+---
+
+## ✉️ Get in Touch
+
+- **Email:** [14vaibhav2002@gmail.com](mailto:14vaibhav2002@gmail.com)
+- **LinkedIn:** [vaibhavchaudhary14](https://www.linkedin.com/in/vaibhavchaudhary14)
+- **Portfolio:** [vaibhav-14ry.vercel.app](https://vaibhav-14ry.vercel.app/)
+
+<br>
+
+<div align="center">
+  <h3>⭐ Star the repos if you find them useful!</h3>
+  <h3>Thanks for visiting! 😊</h3>
+</div>
 
 <p align="center">
-  <strong>AI / Machine Learning Engineer</strong><br/>
-  <sub>Computer Vision · Cyber-Physical AI Systems · Smart Grid Security</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<p align="center">
-  <a href="https://vaibhav-14ry.vercel.app/">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/vaibhavchaudhary14">💼 LinkedIn</a> ·
-  <a href="mailto:14vaibhav2002@gmail.com">📩 Email</a> ·
-  <a href="https://github.com/VaibhavChaudhary14">🐙 GitHub</a>
-</p>
-
----
-
-## 🧠 About Me
-
-I am an **AI / Machine Learning Engineer** with hands-on experience building **end-to-end, production-ready ML systems** for real-world applications.
-
-My work focuses on **computer vision**, **cyber-physical AI systems**, and **applied machine learning for critical infrastructure**, particularly in energy and smart grid domains.
-
-I enjoy translating complex engineering problems into **scalable, reliable, and deployable AI solutions**, combining strong software engineering principles with modern deep learning architectures.
-
----
-
-## 🔬 What I Work On
-
-- **Computer Vision Systems**
-  - CNNs, Vision Transformers, Siamese & Contrastive Learning  
-- **Smart Grid Cybersecurity**
-  - ML-based cyberattack detection & mitigation  
-- **End-to-End ML Engineering**
-  - Model training, evaluation, deployment & monitoring  
-- **Applied AI**
-  - Infrastructure, energy, and security-critical systems  
-
----
-
-## 🛠 Technical Skills
-
-### Programming
-- Python, C/C++, JavaScript
-
-### Machine Learning & Deep Learning
-- Supervised & Unsupervised Learning  
-- Feature Engineering, Cross-Validation, Bias–Variance Tradeoff  
-- CNNs, RNNs, LSTM, Transformers, Vision Transformers  
-- Siamese & Contrastive Learning  
-
-### Frameworks & Libraries
-- PyTorch, TensorFlow, scikit-learn  
-- OpenCV, NumPy, Pandas  
-
-### Web & Systems
-- React, Next.js, Tailwind CSS  
-- REST APIs, Postman  
-
-### DevOps & Tools
-- Docker, Git, GitHub, Linux  
-- MATLAB, Simulink  
-
-### Domain Knowledge
-- Electrical Engineering  
-- Smart Grids & Power Systems  
-- Cybersecurity & IEEE Standards  
-
----
-
-## 🚀 Featured Projects
-
-### 🧹 SaafSaksham  
-**AI-Powered Civic Cleanliness Verification Platform**
-
-- Designed a computer vision pipeline for civic cleanliness assessment  
-- Implemented **CNNs & Vision Transformers** for garbage detection  
-- Applied **Siamese & contrastive learning** for before–after image verification  
-- Integrated anomaly detection, confidence scoring & rule-based validation  
-- Built a scalable verification-first SaaS backend using MongoDB & REST APIs  
-
-**Tech Stack:** PyTorch · OpenCV · Vision Transformers · MongoDB  
-
-🔗 Repository: https://github.com/VaibhavChaudhary14/SaafSaksham
-
----
-
-### ⚡ Smart Grid Cyberattack Detection & Mitigation  
-**Major Project**
-
-- Modeled grid topology using **Spatio-Temporal Graph Neural Networks (ST-GNNs)**  
-- Detected **False Data Injection (FDI), DoS & Replay attacks**  
-- Used **Transformer–LSTM hybrids** and ensemble classifiers  
-- Designed a **PPO-based reinforcement learning agent** for adaptive voltage & frequency mitigation  
-
-**Results**
-- 97–99% attack detection accuracy  
-- 92% localization accuracy  
-
-**Tech Stack:** PyTorch · TensorFlow · scikit-learn · MATLAB / Simulink  
-
----
-
-## 🧑‍💼 Professional Experience
-
-### ⚡ UP Power Transmission Corporation Ltd. (UPPTCL) — Agra  
-**Vocational Trainee — 400 kV Substation | Jul 2025**
-
-- Worked around live **extra-high-voltage (400 kV)** infrastructure  
-- Analyzed transformers, circuit breakers & protection relays  
-- Studied safety protocols, fault handling & preventive maintenance  
-- Gained exposure to transmission system reliability  
-
----
-
-### 💻 ScienceOverse — Remote  
-**Frontend Developer | Mar 2024 – Jun 2024**
-
-- Built production-grade user interfaces for **100+ active users**  
-- Developed applications using React, Next.js & Tailwind CSS  
-- Integrated authentication workflows & **15+ REST APIs**  
-- Improved frontend-backend reliability using Postman  
-
----
-
-## 🎓 Leadership & Community
-
-### 🎓 Chairperson — IEEE Student Branch, REC Banda  
-**2025 – Present**
-
-- Led technical workshops & guest lectures on emerging technologies  
-- Engaged **200+ students annually** through hands-on initiatives  
-- Organized hackathons, technical events & industry talks  
-- Promoted practical skills, research awareness & professional growth  
-
----
-
-## 🎯 What I’m Looking For
-
-- AI / ML Engineer roles  
-- Computer Vision & Applied ML opportunities  
-- AI roles in **infrastructure, energy & security domains**  
-- Teams focused on **real-world impact**, not just models  
-
----
-
-## 🤝 Let’s Connect
-
-📩 **Email:** 14vaibhav2002@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/vaibhavchaudhary14  
-
-⭐ If you find my work useful, feel free to star the repositories and connect!
