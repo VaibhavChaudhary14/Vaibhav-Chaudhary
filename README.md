@@ -94,31 +94,47 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaibhavChaudhary14&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaibhavChaudhary14/VaibhavChaudhary14/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VaibhavChaudhary14/VaibhavChaudhary14/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VaibhavChaudhary14/VaibhavChaudhary14/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-<h2 align="center">📈 My Contributions</h2>
+## 📊 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavChaudhary14&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity graph" />
+  
+| 🎯 **Focus Areas** | 🔧 **Tech Stack** |
+|:------------------:|:-----------------:|
+| Computer Vision & Deep Learning | PyTorch, TensorFlow, OpenCV |
+| Smart Grid Cybersecurity | ST-GNN, LSTM, Transformers |
+| MLOps & Production ML | Docker, REST APIs, MongoDB |
+| Full-Stack AI Applications | React, Next.js, Python |
+
 </div>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavChaudhary14&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavChaudhary14&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavChaudhary14&theme=tokyonight" alt="Profile Summary" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavChaudhary14&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VaibhavChaudhary14&theme=tokyonight" alt="Repos per Language" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaibhavChaudhary14&theme=tokyonight" alt="Most Commit Language" width="400" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VaibhavChaudhary14&theme=tokyonight" alt="Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VaibhavChaudhary14&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="400" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
